@@ -1,0 +1,13 @@
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+rank_bm25
+groq
+tavily-python
+gradio
+matplotlib
+seaborn
+pandas
+numpy
+python-dotenv

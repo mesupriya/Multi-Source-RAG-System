@@ -154,3 +154,5 @@ Thumbs.db
 
 # Office Temp Files
 ~$
+
+.env
