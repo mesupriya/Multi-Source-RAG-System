@@ -1,4 +1,4 @@
-# 🕉️ Mahabharata Multi-Source RAG System
+# Multi-Source RAG System
 
 An advanced Retrieval-Augmented Generation (RAG) system designed to provide accurate, cited answers to questions about the Mahabharata by synthesizing information from the complete 18 Parvas dataset and live scholarly web sources.
 
